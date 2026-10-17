@@ -365,7 +365,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 10. API Endpoints
+## 8. API Endpoints
 
 ### `GET /api/health`
 
